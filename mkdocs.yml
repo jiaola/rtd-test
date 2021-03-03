@@ -6,11 +6,3 @@ theme:
 markdown_extensions:
   - toc:
       permalink: True
-nav:
-  - index.md
-  - analysis.md
-  - change-log.md
-  - 'Developers guide': developer-guide
-    - set-up-docker.md
-    - release.md
-    - repair-obsoleted-classes.md
