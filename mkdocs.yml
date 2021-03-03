@@ -10,7 +10,7 @@ nav:
   - index.md
   - analysis.md
   - change-log.md
-  - developer-guide
+  - 'Developers guide': developer-guide
     - set-up-docker.md
     - release.md
     - repair-obsoleted-classes.md
