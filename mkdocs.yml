@@ -6,7 +6,7 @@ theme:
 markdown_extensions:
   - toc:
       permalink: True
-pages:
+nav:
   - index.md
   - analysis.md
   - change-log.md
