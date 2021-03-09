@@ -9,7 +9,7 @@
 | [adenoma disease has location X](adenoma/) | This is auto-generated. Add your description here |  
 | [adenosquamous carcinoma disease has location X](adenosquamous_carcinoma/) | This is auto-generated. Add your description here |  
 | [adult](adult/) | TBD. |  
-| [allergic_form_of_disease](allergic_form_of_disease/) |  |  
+| [allergic_form_of_disease](allergic_form_of_disease/) | An etiological pattern that extends an etiology-generic disease to an allergic form (i.e. caused by pathological type I hypersensitivity reaction). The [allergy.yaml](https://github.com/monarch-initiative/mondo/blob/master/src/patterns/dosdp-patterns/allergy.yaml) pattern is to refine an existing disease by trigger. |  
 | [allergy](allergy/) |  |  
 | [autoimmune](autoimmune/) | TBD. |  
 | [autoimmune_inflammation](autoimmune_inflammation/) | TBD. |  
@@ -33,7 +33,7 @@
 | [environmental_stimulus](environmental_stimulus/) | A disease that is caused by exposure to an environmental stimulus, like the sun or pesticides.  Examples: [carbon monoxide-induced parkinsonism](http://purl.obolibrary.org/obo/MONDO_0017639), [cocaine intoxication](http://purl.obolibrary.org/obo/MONDO_0019544), [Colorado tick fever](http://purl.obolibrary.org/obo/MONDO_0005708) |  
 | [genetic](genetic/) | TBD. |  
 | [hemangioma disease has location X](hemangioma/) | A hemangioma (a benign vascular lesion characterized by the formation of capillary-sized or cavernous vascular channels) that is located in a specific anatomical site. |  
-| [hereditary](hereditary/) |  |  
+| [hereditary](hereditary/) | Pattern for extending a etiology-generic disease class to a hereditary form.  Here hereditary means that etiology is largely genetic, and that the disease is passed down or potentially able to be passed down via inheritance (i.e is germline). |  
 | [inborn errors of metabolism disease caused by disruption of X](inborn_metabolic_disrupts/) | This pattern is used for inborn errors of metabolism that cause disruption of a specific biological process, such as enzyme activity or ion transport.  |  
 | [inborn_metabolic](inborn_metabolic/) | An acquired metabolic disease that causes disruption of a process. |  
 | [infantile](infantile/) | An instance of a disease that has an onset of signs or symptoms of disease within the first 12 months of life (infantile onset). |  
